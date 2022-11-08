@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747286218398",
+    "project_id": "invunab-d3820",
+    "storage_bucket": "invunab-d3820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747286218398:android:9a73708a91af25ce2f5d8f",
+        "android_client_info": {
+          "package_name": "co.edu.unab.invunab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747286218398-efm7ek6eb61284tv5u7jegp0fe9qsho7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4vlAg1upbqZaL0CG_73v51gK5Qk89oQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747286218398-efm7ek6eb61284tv5u7jegp0fe9qsho7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
