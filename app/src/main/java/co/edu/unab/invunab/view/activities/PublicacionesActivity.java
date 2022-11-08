@@ -92,9 +92,7 @@ public class PublicacionesActivity extends AppCompatActivity {
                         if ((miPublicacion.getIdMateria()).equals(idMateria)){
                             listadoPublicaciones.add(miPublicacion);
                         }
-
                     }
-
                     adaptador.setListadoDatos(listadoPublicaciones);
 
                 } else {
