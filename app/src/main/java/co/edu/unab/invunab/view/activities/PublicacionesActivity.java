@@ -88,6 +88,7 @@ public class PublicacionesActivity extends AppCompatActivity {
 
                     for (DocumentSnapshot document : task.getResult()) {
                         Publicacion miPublicacion = document.toObject(Publicacion.class);
+                        //Aquí hay un error
                         if ((miPublicacion.getIdMateria()).equals(idMateria)){
                             listadoPublicaciones.add(miPublicacion);
                         }
