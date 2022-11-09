@@ -24,7 +24,7 @@
             android:name=".view.activities.AgregarMateriasActivity"
             android:exported="false" />
         <activity
-            android:name=".view.activities.MateriasActivity"
+            android:name=".view.activities.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,7 +33,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.activities.LoginActivity"
+
+            android:name=".view.activities.MateriasActivity"
             android:exported="false" />
         <activity
             android:name=".view.activities.RegistroActivity"

@@ -36,4 +36,6 @@
     <string name="nombre_de_publicacion">Nombre de publicacion</string>
     <string name="ver_archivo">Ver archivo</string>
     <string name="validar_error">Valide el dato</string>
+    <string name="url_de_imagen">URL de imagen</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
 </resources>
